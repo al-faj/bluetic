@@ -1,1 +1,1 @@
-# bluetic
+# Student Performance Prediction System\nSee the full documentation in the project.

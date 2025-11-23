@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+sendgrid
+scikit-learn
+joblib
+python-jose
+PyJWT

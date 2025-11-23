@@ -1,0 +1,2 @@
+:root { --bg: #f5f7fb; }
+body { margin:0; font-family: Inter, Arial, sans-serif; background:var(--bg); }
