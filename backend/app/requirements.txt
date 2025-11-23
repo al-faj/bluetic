@@ -7,3 +7,5 @@ scikit-learn
 joblib
 python-jose
 PyJWT
+pandas
+numpy
